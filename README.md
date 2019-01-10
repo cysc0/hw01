@@ -4,7 +4,6 @@
 #### Files in this directory:
   
 1) hw01.zombo.club  
-&nbsp;&nbsp; HW01 Screenfetch  
   
 2) zombo.club  
 &nbsp;&nbsp; Contains *two* servers.  
