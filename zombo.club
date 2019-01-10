@@ -1,4 +1,5 @@
 # Source http://khoury.neu.edu/~ntuck/courses/2019/01/cs4550/notes/01-welcome/notes.html - Nat Tuck
+
 server {
         listen 80;
         listen [::]:80;
