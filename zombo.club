@@ -15,14 +15,3 @@ server {
                 try_files $uri $uri/ =404;
         }
 }
-
-# redirect IP to domain
-server {
-       listen 80;
-       listen [::]:80;
-
-       server_name 45.77.158.159;
-
-       # Source: https://memorynotfound.com/nginx-redirect-ip-address-domain-name/
-       return 301 $scheme://zombo.club;
-}
