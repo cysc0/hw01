@@ -2,9 +2,11 @@
   
   
 #### Files in this directory:
-- hw01.zombo.club  
+  
+1) hw01.zombo.club  
 &nbsp;&nbsp; HW01 Screenfetch  
-- zombo.club  
+  
+2) zombo.club  
 &nbsp;&nbsp; Contains *two* servers.  
-&nbsp;&nbsp;&nbsp;&nbsp; 1) www.zombo.club & zombo.club  
-&nbsp;&nbsp;&nbsp;&nbsp; 2) Redirect server IP address to zombo.club
+&nbsp;&nbsp;&nbsp;&nbsp; - www.zombo.club & [zombo.club](www.zombo.club)  
+&nbsp;&nbsp;&nbsp;&nbsp; - Redirect server IP address to [zombo.club](www.zombo.club)
