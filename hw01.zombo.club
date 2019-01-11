@@ -7,7 +7,7 @@ server {
 
         index index.html;
 
-        server_name hw01.zombo.club www.hw01.zombo.club;
+        server_name hw01.zombo.club;
 
         location / {
                 # First attempt to serve request as file, then
